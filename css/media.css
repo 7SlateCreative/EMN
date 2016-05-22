@@ -1,0 +1,88 @@
+@media (min-width:768px) {
+    /* Header =========================== */
+
+    #logo {
+        width: 40%;
+        float:left;
+    }
+    nav {
+        width: 60%;
+        float:right;
+    }
+    
+    /* Featured News Item =========================== */
+    
+    .top-story {
+        width:100%;
+    }
+    .top-img {
+        width:50%;
+        float:left;
+    }
+    .top-info{
+        width:50%;
+        float:right;
+    }
+    
+    /* Side Bar =========================== */
+    
+    aside{
+    }
+    .sidebar {
+        clear:both;
+        width:30%;
+        float:right;
+    }
+    .newsletter {
+    }
+    .upcoming {
+        display:block;
+    }
+    .faq {
+        display:block;
+    }
+    
+    /* News/Reviews Feed Section =========================== */
+    
+    .feed {
+        width:60%;
+        float:left;
+    }
+    
+    .feed-img {
+        width:35%;
+    }
+    
+    /* DETAILED PAGES ================================ */
+    
+    .reviews-img, .news-img{
+        width:50%;
+        margin:0px;
+        float:left;
+    }
+    
+    .detail-title{
+        width:50%;
+        float:right;
+    }
+    aside.detail{
+        width:100%; 
+    }
+    .detail .newsletter h2{
+        display:inline;
+    }
+    .detail .newsletter input{
+        display:inline;
+    }
+    
+    /* Footer =========================== */
+    
+    footer {
+        width: 100%;
+        clear:both;
+    }
+    #footer-logo{
+        width:30%;
+        margin:auto;
+    }
+}

@@ -1,0 +1,15 @@
+aside.detail {
+        width: 30%;
+        float: right;
+        border: medium none;
+        padding: 0px;
+    }
+
+       aside.detail .newsletter input {
+            display: block;
+            width: 100%;
+       }
+
+       aside.detail .newsletter input [type="text"] {
+            margin-right: 0px;
+       }

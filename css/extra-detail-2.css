@@ -1,0 +1,68 @@
+article.detailed-content {
+        width: 100%;
+        float: left;
+        padding-right: 2.5%;
+        border-bottom: 1px solid #ccc;
+    }
+
+    .detail-title {
+        width: 100%;
+        float: left;
+    }
+
+    .article-header-detail-title {
+        width: 100%;
+        float: none;
+    }
+
+    .reviews-img, .news-img {
+        width: 100%;
+        float: none;
+    }
+    
+    .detail-news-img {
+        width: 100%;
+        float: none;
+    }
+
+    .detail-reviews-img {
+        width: 100%;
+        float: none;
+    }
+
+    aside.detail-sidebar {
+        clear: both;
+        width: 100%;
+        float: none;
+    }
+
+        aside.detail-sidebar .newsletter {
+            border: none;
+            padding-top: 4px;
+            border-bottom: 1px solid #ccc;
+        }
+
+        aside.detail-sidebar .newsletter input {
+            display: block;
+            width: 100%;
+        }
+
+        aside.detail-sidebar .newsletter .btn {
+            width: 100%;
+        }
+
+        aside.detail-sidebar .newsletter input [type="text"] {
+            padding: 7px 0px;
+            margin-right: 2%;
+        }
+
+    
+       aside.detail .upcoming .btn {
+            display: block;
+            width: 100%;
+       }
+
+        aside.detail .faq .btn {
+            display: block;
+            width: 100%;
+       }
